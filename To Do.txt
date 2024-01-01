@@ -1,2 +1,4 @@
-1. 화물 컨베이어
-2. 유닛 공장
+1. Change enviroment
+2. Play Satisfactory
+3. Repeat #2 150 times
+4. Change unit textures
